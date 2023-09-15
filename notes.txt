@@ -10,3 +10,26 @@ Hash Tables
 
 If you know these well, you're good to go.
 
+
+
+9/14/23:
+I tried two problems from the book - IsUnique and Permutation.
+My solution to the IsUnique problem was a hash map and it worked as intented, analyzing the method
+showed that it had a worst case runtime of O(1), since searching through each hash table yields a
+constant runtime. Unfortunately, I couldn't say the same for the Permutation problem. I frequently
+had to look up syntax errors for Java since I didn't fluently know how to write certain methods
+without resorting to Chat-GPT (which was wrong most of the time) or Google. I gave up and look up
+the solution in the book. The solutions made sense; the first one was to simply convert the strings
+into primitive character arrays and sort them using the java.util library, the other solution was to
+count the characters in each array and see if they were equal. I didn't quite understand the second one, 
+but the first one made total sense.
+
+What did I learn?:
+I still resort to using Chat-GPT or Google when trying to write the most basic code in Java. I have
+the pseudocode in my head, but writing it out plainly in Java proved to be difficult, and might be
+one of the largest hurdles in this journey. My biggest issue right now is syntax, I need to improve
+on writing fluent Java code without relying on external sources and LSP. With practice, it's
+something I can master. As long as I have the basic util methods memorized, then I can definitely
+improve upon it.
+
+
