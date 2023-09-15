@@ -1,0 +1,12 @@
+
+All you need are the following to solve most coding interview problems:
+Depth-first Search
+Breathd-first Search
+Binary Search
+Max-sub array (dynamic programming)
+Linked List
+Stack/Queue
+Hash Tables
+
+If you know these well, you're good to go.
+
